@@ -1,8 +1,13 @@
-# Alexia's data_analytics_portfolio
+# Alexia's Data Analytics Portfolio
 
-# [Project 1: Cyclistic Company](
-This is a project I did for my Data Analytics Course by Google, where I analized data from the company records and build a recommendation to convert casual customers to annual membership customers.
+# [Project 1: Cyclistic Company](https://github.com/alexiavalencial/project_1_cyclistic.git)
+This is a project I did for my Data Analytics Course by Google, where I analyzed data from the company records and built a recommendation to convert casual customers to annual membership customers.
 
-## Introduction
+- Data was taken from a primary source
+- Data was cleaned and filtered using spreadsheets
+- Google spreadsheet was used to complete the analysis
+- Tableau was used to process necessary graphs for visualization purposes
+- Recommendations to the Marketing Department were provided based on the results
 
-The bicycle rental sector has grown exponentially in recent years, due to its economic, social and environmental benefits. However, they have also had to face various challenges, such as the declining economy and keeping their audience with them, preventing them from going with the competition or using other types of transportation.
+  ## Overview of the total of trips that were analyzed
+  ![Monthly_trips (1)](https://github.com/alexiavalencial/data_analytics_portfolio/assets/153674734/2b14dfb5-eafb-4845-8ee0-5925c3717d99)
