@@ -1,6 +1,6 @@
 # Alexia's Data Analytics Portfolio
 
-# [Project 1: Cyclistic Company](https://github.com/alexiavalencial/project_1_cyclistic.git)
+# [Project 1: Cyclistic Company](https://alexiavalencial.github.io/project_1_cyclistic/)
 This is a project I did for my Data Analytics Course by Google, where I analyzed data from the company records and built a recommendation to convert casual customers to annual membership customers.
 
 - Data was taken from a primary source
